@@ -1,0 +1,14 @@
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cache-Control: no-cache
+Connection: keep-alive
+Content-Length: 38
+Content-Type: application/x-www-form-urlencoded
+Cookie: P_INFO=op0912036@163.com|1541073998|0|other|11&9|hen&1541053165&other#hen&410100#10#0#0|187851&0|kaola&kaola_check|op0912036@163.com; OUTFOX_SEARCH_USER_ID=382489020@10.168.8.76; OUTFOX_SEARCH_USER_ID_NCOO=2112954488.2257729; YOUDAO_MOBILE_ACCESS_TYPE=0; _yd_newbanner_day=2; ___rl__test__cookies=1541124870919
+Host: m.youdao.com
+Origin: http://m.youdao.com
+Pragma: no-cache
+Referer: http://m.youdao.com/translate?vendor=fanyi.web
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Mobile Safari/537.36
